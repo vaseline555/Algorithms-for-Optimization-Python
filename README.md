@@ -4,7 +4,7 @@ Unofficial implementation in Python porting of the book "[Algorithms for Optimiz
 ![AlgOptBook](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039420%26type%3D.jpg?itok=hx-SOZVN)
 
 # Contents
-## 02. Derivatives in Multiple Dimensions
+## [02. Derivatives in Multiple Dimensions](./Ch%2002.%20Derivatives%20in%20Multiple%20Dimensions.ipynb)
 * Symbolic differentiation
 * Numerical differentiation
   * Finite difference methods
@@ -13,7 +13,7 @@ Unofficial implementation in Python porting of the book "[Algorithms for Optimiz
   * Forward accumulation
   * Reverse accumulation
 
-## 03. Bracketing
+## [03. Bracketing](./Ch%2003.%20Bracketing.ipynb)
 * Unimodality assumption
 * Fibonacci search
 * Golden section search
@@ -21,7 +21,7 @@ Unofficial implementation in Python porting of the book "[Algorithms for Optimiz
 * Shubert-Piyavskii method
 * Bisection method
 
-## 04. Local Descent
+## [04. Local Descent](./Ch%2004.%20Local%20Descent.ipynb)
 * Line search
 * Approximate line search
   * First Wolfe condition

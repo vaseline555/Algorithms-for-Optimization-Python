@@ -42,5 +42,5 @@ Unofficial implementation in Python porting of the book "[Algorithms for Optimiz
 * Hypergradient Nesterov momentum
 
 ---
-Author: Seok-Ju Hahn
-Email: seokjuhahn@unist.ac.kr
+* Author: Seok-Ju Hahn
+* Email: seokjuhahn@unist.ac.kr

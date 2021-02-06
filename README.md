@@ -28,3 +28,15 @@ Unofficial implementation in Python porting of the book "[Algorithms for Optimiz
   * Second Wolfe condition
   * Strong Wolfe condition
 * Trust region method
+
+## [05. First-order Methods](./Ch%2005%20First-order%20Methods.ipynb)
+* Gradient descent
+* Conjugate gradient descent
+* Momentum
+* Nesterov momentum
+* Adagrad
+* RMSProp
+* Adadelta
+* Adam
+* Hypergradient descent
+* Hypergradient Nesterov momentum

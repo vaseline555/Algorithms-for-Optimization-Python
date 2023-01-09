@@ -1,7 +1,7 @@
 # Algorithms for Optimization - Python
 Unofficial implementation in Python porting of the book "[Algorithms for Optimization](https://mitpress.mit.edu/books/algorithms-optimization)" (2019); MIT Press by Mykel J. Kochenderfer and Tim A. Wheeler
 
-![AlgOptBook](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262039420%26type%3D.jpg?itok=hx-SOZVN)
+![AlgOptBook](https://mit-press-us.imgix.net/covers/9780262039420.jpg?auto=format&w=298&dpr=1&q=20)
 
 # Contents
 ## [02. Derivatives in Multiple Dimensions](./Ch%2002.%20Derivatives%20in%20Multiple%20Dimensions.ipynb)
